@@ -11,5 +11,3 @@ let accountState
 accountEmail = "dbrpn06@gmail.com"
 console.log(accountID)
 console.table([accountEmail,accountID,accountPassword,accountCity,accountState])
-
-

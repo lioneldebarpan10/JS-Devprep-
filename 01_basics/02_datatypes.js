@@ -17,3 +17,7 @@ console.log(typeof age) //Number
 console.log(typeof "Abir") //String
 console.log(typeof null) //Object
 console.log(typeof undefined) //Undefined
+
+const ID = Symbol('123')
+const anotherID = Symbol('123')
+console.log(ID === anotherID);

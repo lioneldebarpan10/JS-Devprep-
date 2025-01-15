@@ -16,3 +16,9 @@ console.log(booleanisloggedin);
 // 1 => true ; 0 => false
 // "" => false
 // "Abir" => true
+
+let someNumber = 33
+let stringnumber = String(someNumber)
+console.log(stringnumber);
+console.log(typeof stringnumber)
+

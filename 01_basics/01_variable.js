@@ -9,5 +9,7 @@ let accountState
 
 //accountID = 2; Not allowed to rewrite a constant
 accountEmail = "dbrpn06@gmail.com"
+accountPassword = "54321"
+accountCity = "Bengaluru"
 console.log(accountID)
-console.table([accountEmail,accountID,accountPassword,accountCity,accountState])
+console.table([accountEmail,accountID,accountPassword,accountCity,accountState /*return Undefined*/])
